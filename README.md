@@ -1,1 +1,1 @@
-##react/nanostores project
+## react/nanostores project
