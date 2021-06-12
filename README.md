@@ -1,1 +1,2 @@
-## react/nanostores project
+## React / Nanostores example project
+Base to CRA (template Typescript) 
